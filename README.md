@@ -5,6 +5,9 @@
   <strong>Software Developer · .NET & React Native · Clean Architecture · AI-Assisted Workflows</strong><br/>
   Building scalable enterprise applications, cloud-native systems, mobile applications, and developer frameworks.
 </p>
+
+<img src="banner.png" alt="Profile views"/>
+
 <!---
 <p align="center">
   <a href="https://www.linkedin.com/in/redonalla" target="_blank">
@@ -106,7 +109,7 @@ My focus is writing clean, maintainable, scalable software that follows modern a
 </p>
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -119,6 +122,8 @@ My focus is writing clean, maintainable, scalable software that follows modern a
 </p>
 
 ---
+
+-->
 
 ## 🌱 Currently Learning
 - Advanced Kubernetes
