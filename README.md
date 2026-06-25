@@ -109,7 +109,7 @@ OPEN_TO     = ["Senior .NET Engineer", "Full Stack", "Fintech", "Remote Roles"]
 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,rabbitmq&theme=dark" />
 </p>
 
 ---
