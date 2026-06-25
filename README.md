@@ -97,7 +97,7 @@ OPEN_TO     = ["Senior .NET Engineer", "Full Stack", "Fintech", "Remote Roles"]
 **Databases & Messaging**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mssql,postgres,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,redis&theme=dark" />
 </p>
 
 **DevOps & Cloud**
@@ -109,7 +109,7 @@ OPEN_TO     = ["Senior .NET Engineer", "Full Stack", "Fintech", "Remote Roles"]
 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,rabbitmq&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rabbitmq,claude,github-copilot&theme=dark" />
 </p>
 
 ---
