@@ -15,7 +15,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/📍_Durrës,_Albania-0D1117?style=flat-square&logoColor=FFD700&labelColor=161B22&color=161B22" />
   &nbsp;
-  <img src="https://img.shields.io/badge/4%2B_Years_Experience-0D1117?style=flat-square&logoColor=00D4FF&labelColor=161B22&color=161B22" />
+  <img src="https://img.shields.io/badge/10%2B_Years_Experience-0D1117?style=flat-square&logoColor=00D4FF&labelColor=161B22&color=161B22" />
 </p>
 
 <p align="center">
