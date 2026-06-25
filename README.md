@@ -46,16 +46,34 @@
 
 <img align="right" width="160" src="https://raw.githubusercontent.com/RedonAlla/RedonAlla/refs/heads/main/me.png" style="border-radius:12px; border: 2px solid #00D4FF;" />
 
-Passionate Full Stack Engineer with **4+ years** building enterprise-grade banking systems and scalable web products across fintech, microservices, and AI-assisted development. I architect clean, maintainable solutions using **.NET Core**, **React**, and **React Native**, and I actively integrate AI tooling to supercharge development velocity for both enterprise and agency workloads.
+I'm a Senior Full-Stack Software Engineer with 10+ years of experience designing, developing, and maintaining enterprise-grade software solutions.
+My expertise spans backend development, frontend applications, mobile development, cloud-native solutions, and software architecture.
 
-Currently working at **Banka Kombëtare Tregtare (BKT)** — one of Albania's leading commercial banks — delivering mission-critical financial software with microservices and event-driven architecture.
+I am passionate about building systems that are:
+
+* Scalable
+* Maintainable
+* High-performance
+* Secure
+* Developer-friendly
+
+Throughout my career, I have worked on large-scale enterprise applications, contributed to banking systems, designed reusable frameworks, and mentored developers.
+
+---
+
+
+
+## 🛠️ Tech Stack
+
+**Backend**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ```bash
 ROLE        = "Senior Full Stack Engineer"
-EXPERIENCE  = "4+ years"
+EXPERIENCE  = "10+ years"
 DOMAIN      = ["Fintech", "Banking", "SaaS", "Enterprise Software"]
 STACK       = [".NET Core", "C#", "React", "React Native", "TypeScript", "SQL Server", "RabbitMQ"]
-ARCH        = ["Clean Architecture", "Microservices", "DDD", "Event-Driven"]
+ARCH        = ["Clean Architecture", "Microservices"]
 LEARNING    = ["Kubernetes", "Cloud Infrastructure", "AI-Assisted Dev Workflows"]
 OPEN_TO     = ["Senior .NET Engineer", "Full Stack", "Fintech", "Remote Roles"]
 ```
